@@ -1,5 +1,13 @@
-Problem Type: Classification (specifically binary classification).
+## Problem Type: 
 
-Target Variable: returned (Values: "Yes" or "No").
+Classification (specifically binary classification).
 
-Learning Goal: The model is expected to learn how customer attributes (age, gender), transaction details (value, category), and logistics (delivery time) influence the likelihood of a product being returned.
+## Target Variable: 
+returned (Values: "Yes" or "No").
+
+## Learning Goal:
+The model is expected to learn how customer attributes (age, gender), transaction details (value, category), and logistics (delivery time) influence the likelihood of a product being returned.
+
+## diagram:
+
+![Methodology diagram](lab2_diagram.png)
